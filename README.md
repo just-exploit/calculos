@@ -1,1 +1,1 @@
-# calculos
+# Repositório onde escrevo alguns calculos que esqueço a formula, ent isso é pra... ja deu pra entender.
